@@ -1,0 +1,155 @@
+body{
+    font-family: Helvetica, sans-serif;
+    background-color: #393e46;
+}
+.content{
+    width: 80%;
+    padding: 20px;
+    max-width: 1920px;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: #eee;
+}
+.top{
+    color: white;
+    background-color: #222831;
+    text-align: center;
+    font-size: 45px;
+    font-family: Impact, sans-serif;
+    border-radius: 15px;
+    padding: 5px;
+}
+.Me{
+    display: flex;
+}
+.name{
+    margin-left: 20px;
+    margin-right: 20px;
+    border-radius: 5px;
+    padding: 20px;
+    font-family: impact, serif;
+    font-size: 70px;
+    box-shadow: 10px 10px grey;
+    background-color: #393e46;
+    color: #eee;
+    width: 40%;
+}
+.decriptions{
+    width: 40%;
+    padding: 10px;
+    margin: 20px;
+    border-radius: 10px;
+    color: white;
+    text-align: center;
+    background-color: #222831;
+    font-size: 17px;
+}
+.decriptions strong{
+    font-size: 20px;
+}
+.betweener{
+    width: 3px;
+    background-color: black;
+    border-color: black;
+}
+.borderline{
+    height: 3px;
+    background-color: black;
+    border-color: black;
+}
+.header{
+    margin-top: 20px;
+    text-align: center;
+    color: white;
+    background-color:  #222831;
+    font-family: Impact, sans-serif;
+    font-size: 30px;
+    padding: 1px;
+    border-radius: 5px;
+}
+.edu-detail{
+    display: flex;
+    margin-top: 15px;
+    text-align: center;
+    margin-bottom: 20px;
+}
+.edu{
+    padding: 5px;
+}
+.edu-detail h3{
+    font-size: 30px;
+}
+.school1{
+    margin-left: 60px;
+    margin-right: 50px;
+    width: 30%;
+    background-color: darkgray;
+    padding: 5px;
+    border-radius: 5px;
+}
+.school2{
+    margin-left: 50px;
+    margin-right: 50px;
+    width: 30%;
+    background-color: darkgray;
+    padding: 5px;
+    border-radius: 5px;
+}
+.school3{
+    margin-left: 50px;
+    margin-right: 60px;
+    width: 30%;
+    background-color: darkgray;
+    padding: 5px;
+    border-radius: 5px;
+}
+.hobbiesContent{
+    margin: 20px;
+    text-align: justify;
+    background-color: darkgrey;
+    padding: 10px;
+    border-radius: 5px;
+}
+.skills1{
+    display: inline-block;
+    background-color: darkgrey;
+    margin-top: 10px;
+    padding: 10px;  
+    border-radius: 5px;
+    margin-left: 25px;
+    
+}
+.skills2{
+    display: inline-block;
+    background-color: darkgrey;
+    padding: 10px;
+    border-radius: 5px;
+    margin-left: 100px;
+    margin-top: 20px;
+}
+.FavAndAmb{
+    display: flex;
+}
+.favorites{
+    padding: 10px;
+    max-width: 800px;
+    width: 50%;
+    margin-left: 20px;
+}
+.ambitions{
+    padding: 10px;
+    margin-left: 50px;
+    margin-right: 20px;
+    max-width: 800px;
+    width: 50%;
+}
+.list{
+    background-color: grey;
+    padding: 10px;
+    padding-left: 5px;
+    margin-top: 10px;
+    border-radius: 5px;
+}
+.foot{
+    text-align: center;
+}
